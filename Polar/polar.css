@@ -1,0 +1,476 @@
+*{
+    margin: 0;
+    
+    
+}
+
+
+
+header{
+    width:100%;
+    height: auto;
+    background-color: #F2CEDA;
+}
+nav{
+    width: 80%;
+    height:auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+}
+ .nav__ahref{
+    width:50%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav__ahref a{
+     color:black;
+     text-decoration: none;
+
+ }
+   nav button{
+    width:15%;
+    height: 40px;
+    border-radius: 10px;
+    background-color:#D23166;
+    color: white;
+    border: none;
+   }
+   .header__main{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    display:grid;
+    grid-template-columns: auto auto;
+    
+    }
+    .right h6 {
+      font-size: 25px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .h1text {
+        width: 80%;
+        font-size: 45px;
+        color: black;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .matn{
+        width: 90%;
+        font-size:20px;
+        color:#0F0101;
+        
+    }
+    .buttontext{
+        width:30%;
+    height: 40px;
+    border-radius: 10px;
+    background-color:#D23166;
+    color: white;
+    border: none;
+    }
+    .left img{
+        max-width: 100%;
+    }
+    .right span{
+        color: #D23166;
+    }
+    main{
+        width: 100%;
+        height:auto;
+
+    }
+    .turtlik{
+        width: 80%;
+        height:200px;
+        margin: auto;
+        margin-top: 70px;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        gap: 30px;
+        margin-bottom: 60px;
+    }
+    .bir{
+        width: 100%;
+        height:auto;
+       display: block;
+    
+    }
+    .bir img{
+        display: block;
+        margin: auto
+    }
+    .bir h5{
+        text-align: center;
+        font-size:15px;
+    }
+    .bir p{
+     max-width: 90%;
+      margin: auto;
+      text-align: center;
+    }
+    .sugar{
+        width: 100%;
+        height:auto;
+        background-color: #F8EDF0;
+       
+    }
+    .sugar__ota{
+        width: 80%;
+    height:auto;
+    margin: auto;
+    margin-top: 100px;
+    display:grid;
+    grid-template-columns: auto auto;
+    
+    }
+    .matnn{
+        width: 80%;
+        font-size:18px;
+        color:#0F0101;
+    }
+    .sugar__bolaa h1{
+        width: 50%;
+        font-size: 45px;
+        color: black;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    }
+    .sugar__bolaa p{
+        width: 90%;
+        font-size:20px;
+    }
+    .sugar__bola img{
+        max-width: 100%;
+        height: auto;
+    }
+    .sugar__bolaa{
+        margin-top: 70px;
+    }
+    .ourproduct{
+        width: 60%;
+        height:auto;
+        margin: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .izoh{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        color: #0F0101;
+        font-size: 15px;
+    }
+    .brownbread{
+        width: 80%;
+        height:auto;
+        margin: auto;
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 40px;
+    }
+    .brown{
+         margin: auto;
+         
+    }
+    .brown img{
+        max-width: 100%;
+    }
+     .brown p{
+       font-size: 18px;
+     }
+     .brown button{
+        width:30%;
+    height: 40px;
+    border-radius: 10px;
+    background-color:#D23166;
+    color: white;
+    border: none;
+     }
+     .broown{
+        margin: auto;
+     }
+     .american{
+
+        display: flex;
+       align-items: center;
+       margin: auto
+
+     }
+     .rasmm img{
+        max-width: 100%;
+     }
+     .izooh{
+        display: block;
+        font-size:13px;
+        margin-left: 15px;
+
+     }
+     .paragriff p{
+        font-size: 20px;
+        width: 90%;
+     }
+     .rasm1{
+       border-radius:20px;
+      
+      
+     }
+     .rasm2{
+        width: 40px;
+     }
+      .breadd{
+        width: 100%;
+        height: auto;
+         background-color: #F8EDF0;
+      }
+     .brownbreadd{
+        width: 80%;
+        height:auto;
+        margin: auto;
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 120px;
+       
+     }
+     .brownnn img{
+        max-width: 100%;
+        border-radius: 30px;
+     }
+     .brown22{
+        width: 70%;
+        height:auto;
+
+     }
+     .brown22 p{
+     width:100%;
+     
+     
+     }
+     .brown22 h1{
+        
+        font-size: 30px;
+     }
+    
+     .izohlar{
+        display: flex;
+        margin-top: 20px;
+     }
+     .izohlar img{
+        width:10%;
+        border-radius: 20px;
+        background-color: white;
+     }
+     .izohlar h3{
+        padding: 10px;
+    
+     }
+     .twobutton{
+       width: 60%;
+       display: flex;
+      
+       
+       
+     }
+     .twobutton button{
+        border: none;
+       
+       
+     }
+     .twobutton img{
+        max-width:100%;
+     }
+     .question{
+        width: 40%;
+        height:auto;
+        margin: auto;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+     }
+     .question h1{
+        width:70%;
+        margin: auto;
+     }
+     .question button{
+        width:30%;
+        height: 40px;
+        border-radius: 10px;
+        background-color:#D23166;
+        color: white;
+        border: none;
+        margin-top: 20px;
+     }
+     footer{
+        width: 100%;
+        height:auto;
+        background-color: #0F0101;
+     }
+     .footr{
+        width: 80%;
+        
+        border: 1px solid black;
+        margin: auto;
+        margin-top:60px;
+        display:grid;
+        grid-template-columns: auto auto auto auto;
+        /* gap: 30px; */
+        
+     }
+     .footer2{
+        width: 100%;
+        margin-top: 100px;
+     }
+     .footer2 p{
+        font-size:20px;
+        color: white;
+
+     }
+     .footer2 img{
+        max-width: 100%;
+     }
+     .footer2 button{
+        width:50%;
+        height: 40px;
+        border-radius: 10px;
+        background-color:#D23166;
+        color: white;
+        border: none;
+        margin-top: 20px;
+     }
+     .footer2 h4{
+        font-size: 20px;
+        margin-top: 15px;
+        margin-bottom:-10px;
+        color: white;
+
+     }
+     .follow{
+        display: flex;
+        width: 50%;
+       
+     }
+     .followus img{
+        max-width: 100%;
+        
+        margin-left: 15px;
+
+     }
+     .footer2 h6{
+        margin-bottom: 10px;
+        font-size: 15px;
+        color: white;
+     }
+     .visa{
+        display: flex;
+        margin-top: 10px;
+     }
+     .visa2{
+        margin-left: 16px;
+     }
+     
+     
+
+
+
+     
+
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (max-width:400px){
+        .header__main{
+            grid-template-columns: auto;
+        }
+        .right h1{
+            width: 80%;
+            font-size: 30px;
+        }
+        .turtlik{
+            grid-template-columns: auto;
+        }
+        .sugar__ota{
+            grid-template-columns: auto;
+        }
+        .sugar__bolaa h1{
+            font-size: 30px;
+        }
+        .sugar__bolaa p{
+            font-size:15px;
+            width:100%;
+        }
+        .brownbread{
+            grid-template-columns: auto;
+        }
+        .brownbreadd{
+            grid-template-columns: auto;
+        }
+        .footr{
+            grid-template-columns: auto auto;
+        }
+        .brownbreadd{
+            grid-template-columns: auto;
+        }
+    
+
+        
+    }
+
+
+    @media screen and (max-width:600px) {
+        .header__main{
+            grid-template-columns: auto;
+        }
+        .turtlik{
+            grid-template-columns: auto auto;
+        }
+        .sugar__ota{
+            grid-template-columns: auto;
+        }
+        .brownbread{
+            grid-template-columns: auto;
+        }
+        .footr{
+            grid-template-columns: auto auto;
+        }
+        .brownbreadd{
+            grid-template-columns: auto;
+        }
+
+        
+    }
